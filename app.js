@@ -1,6 +1,0 @@
-console.log("FDasf")
-console.log("FDasf")
-console.log("FDasf")
-console.log("FDasf")
-console.log("FDasf")
-console.log("FDasf")
